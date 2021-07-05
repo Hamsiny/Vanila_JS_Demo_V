@@ -6,7 +6,9 @@ It can filtering with category and price range, sorting by price ascending and d
 ## Screenshots
 
 Home Page
-<img src="https://github.com/Hamsiny/Vanila_JS_Demo_V/blob/master/images/homepage.png?raw=true" alt="homepage">
+
+<img src="https://github.com/Hamsiny/Vanila_JS_Demo_V/blob/master/images/homepage.png?raw=true" alt="homepage" width="60%">
 
 Product Page
-<img src="https://github.com/Hamsiny/Vanila_JS_Demo_V/blob/master/images/productpage.png?raw=true" alt="productpage">
+
+<img src="https://github.com/Hamsiny/Vanila_JS_Demo_V/blob/master/images/productpage.png?raw=true" alt="productpage" width="60%">

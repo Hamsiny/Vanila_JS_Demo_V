@@ -1,0 +1,36 @@
+.navbar {
+    background-color: #52734D;
+}
+
+.btn {
+    background-color: #91C788;
+    color: white;
+}
+
+.btn:hover {
+    background-color: #52734D;
+    color: white;
+}
+
+/* category */
+.categoryselector {
+    width: 50%; 
+    display: inline-block; 
+    vertical-align:middle;
+}
+
+/* price */
+.priceselector {
+    width: 36%; 
+    display: inline-block; 
+    vertical-align:middle;
+}
+
+/* product area */
+.showbox {
+    padding: 20px 2px 20px 30px;  
+    max-height: 700px; 
+    border: solid 1px grey;
+    border-radius: 5px;
+    overflow-y: auto;
+}

@@ -9,6 +9,6 @@ Home Page
 
 <img src="https://github.com/Hamsiny/Vanila_JS_Demo_V/blob/master/images/homepage.png?raw=true" alt="homepage" width="60%">
 
-Product Page
+Product Page in medium size
 
 <img src="https://github.com/Hamsiny/Vanila_JS_Demo_V/blob/master/images/productpage.png?raw=true" alt="productpage" width="60%">
